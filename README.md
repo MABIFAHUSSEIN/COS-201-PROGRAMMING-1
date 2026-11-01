@@ -4,6 +4,34 @@ This repository contains the weekly practical programming assignments and lab ex
 
 ---
 
+## Week 1: Introduction to Programming and Problem-Solving
+
+### Student Information
+- **Name:** MABIFA HUSSEIN
+- **Matriculation Number:** 25/18084
+- **Programme:** COMPUTER SCIENCE
+- **Course:** COS 201
+- **Week:** 1
+
+### Practical Exercise
+Created and executed my first Java programme.
+
+### Files
+- `week01/FirstProgram.java`
+
+### How to Run
+1. Open a terminal in the `week01` directory.
+2. Compile the program using `javac FirstProgram.java`.
+3. Run the program using `java FirstProgram`.
+
+### Skills Practised
+- Java class and main method
+- Output statements
+- Compilation and execution
+- GitHub version control
+
+---
+
 ## Week 2: Development Environment and First Java Program
 
 ### Student Information
